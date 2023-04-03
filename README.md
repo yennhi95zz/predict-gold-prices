@@ -1,4 +1,8 @@
 # Gold Price Forecasting
+#### 🧑‍🏫 Author: [Nhi Yen](https://www.linkedin.com/in/yennhi95zz/)
+##### 💡I write about Machine Learning on [Medium](https://medium.com/@yennhi95zz) || [Github](https://github.com/yennhi95zz) || [Kaggle](https://www.kaggle.com/nhiyen/code) || [Linkedin](https://www.linkedin.com/in/yennhi95zz/). If you found this article interesting, your support by giving me ⭐ will help me spread the knowledge to others.
+
+## Introduction
 
 This repository contains code for forecasting the price of gold using various time series forecasting methods. The dataset used is the daily price of gold in USD from 1950-01 to 2020-07.
 
