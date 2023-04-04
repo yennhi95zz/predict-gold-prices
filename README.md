@@ -35,5 +35,5 @@ The Exponential Smoothing Model was used to predict the gold prices for the peri
 - Kaggle Dataset: [Monthly Gold Price](https://www.kaggle.com/datasets/nhiyen/monthly-gold-price)
 - Github Repo - [HERE](https://github.com/yennhi95zz/predict-gold-prices)
 - Kaggle Project - [HERE](https://www.kaggle.com/nhiyen/time-series-prediction-on-gold-prices)
-- Time Series Visualization on [Tableau](https://public.tableau.com/views/TimeSeriesPredictiononGoldPrices/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Time Series Visualization on [Tableau](https://public.tableau.com/app/profile/nhi.yen/viz/TimeSeriesPredictiononGoldPrices/Dashboard1)
 - Detail Explanation about the code on [MEDIUM]([https://medium.com/@yennhi95zz/unleashing-the-power-of-e-commerce-sales-analysis-a-case-study-4c64871a86ee](https://medium.com/@yennhi95zz/time-series-prediction-on-gold-prices-a826fc2ead0c))
